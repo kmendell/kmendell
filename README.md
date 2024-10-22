@@ -18,8 +18,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/powershell/5391FE" height="30" alt="powershell logo"  />
-  <img width="12" />
   <img src="https://cdn.simpleicons.org/alpinelinux/0D597F" height="30" alt="alpinelinux logo"  />
 </div>
 
