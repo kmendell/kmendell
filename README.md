@@ -54,8 +54,6 @@ const myTechStack = {
 <div align="center">
   
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kmendell&show_icons=true&theme=gotham)
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-languages/?username=kmendell&layout=compact&theme=gotham)](https://github.com/kmendell)
 
 </div>
 
