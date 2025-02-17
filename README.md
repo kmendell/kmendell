@@ -2,7 +2,7 @@
   
 # 🚀 `kmendell.dev();`
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2bbc8a&center=true&vCenter=true&random=false&width=435&lines=Full+Stack+Developer;Code+Craftsman;Open+Source+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2bbc8a&center=true&vCenter=true&random=false&width=435&lines=Support+Engineer;Code+Craftsman;Open+Source+Enthusiast)](https://git.io/typing-svg)
 
 </div>
 
