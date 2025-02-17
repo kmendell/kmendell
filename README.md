@@ -18,7 +18,7 @@ type Developer struct {
 func main() {
     me := Developer{
         Name:        "kmendell",
-        Title:       "Full Stack Developer",
+        Title:       "Support Engineer",
         Location:    "Terminal:/home/kmendell",
         LastUpdated: "2025-02-17 14:55:16 UTC",
     }
