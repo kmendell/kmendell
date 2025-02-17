@@ -1,20 +1,94 @@
-<h2 align="left">Hi 👋! My name is Kyle!</h2>
-
-###
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kmendell&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmendell&exclude_repo=tprdp,thinpiproject,thinpi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  
+# 🚀 `kmendell.dev();`
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2bbc8a&center=true&vCenter=true&random=false&width=435&lines=Full+Stack+Developer;Code+Craftsman;Open+Source+Enthusiast)](https://git.io/typing-svg)
+
 </div>
 
-###
+## 👨‍💻 `whoami`
+```go
+type Developer struct {
+    Name        string
+    Title       string
+    Location    string
+    LastUpdated string
+}
+
+func main() {
+    me := Developer{
+        Name:        "kmendell",
+        Title:       "Full Stack Developer",
+        Location:    "Terminal:/home/kmendell",
+        LastUpdated: "2025-02-17 14:55:16 UTC",
+    }
+}
+```
+
+## 🛠️ Tech Arsenal
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="30" alt="windows8 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/alpinelinux/0D597F" height="30" alt="alpinelinux logo"  />
+
+![Svelte](https://img.shields.io/badge/Svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
+![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
+</div>
+
+```typescript
+const myTechStack = {
+    frontend: {
+        framework: "Svelte",
+        language: "TypeScript",
+        passion: "Building smooth user experiences"
+    },
+    backend: {
+        language: "Go",
+        focus: "High-performance systems"
+    }
+};
+```
+
+## 📊 GitHub Matrix
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kmendell&show_icons=true&theme=gotham)
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-languages/?username=kmendell&layout=compact&theme=gotham)](https://github.com/kmendell)
+
+</div>
+
+## 🔮 Current Status
+
+```svelte
+<script>
+  let status = {
+    currently: "Building something awesome",
+    mode: "Always learning",
+    seeking: "Interesting collaborations"
+  };
+</script>
+
+<div class="status">
+  {#each Object.entries(status) as [key, value]}
+    <p>{key}: {value}</p>
+  {/each}
+</div>
+```
+
+<div align="center">
+  
+### 🤝 Let's Connect
+
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kmendell)
+
+</div>
+
+---
+
+<div align="center">
+  
+`Last deployed on: 2025-02-17 14:55:16 UTC`
+  
 </div>
